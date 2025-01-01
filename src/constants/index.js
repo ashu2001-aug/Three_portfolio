@@ -118,7 +118,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2023 - Present",
     points: [
-      ""
+      "Developed robust security middleware solutions, ensuring the protection of sensitive data and seamless integration into various systems.",
+      "Adapt at identifying vulnerabilities, implementing encryption, and enhancing application security, delivering scalable, high-performance middleware to safeguard digital infrastructures.",
+      "Created dynamic Firewall rules."
     ],
   },
   {
